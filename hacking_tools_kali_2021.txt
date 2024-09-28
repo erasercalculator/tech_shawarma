@@ -1,0 +1,147 @@
+Hacking Tools that have the keyword: exploit
+ii  exploitdb                              20220331-0kali1                      all          Searchable Exploit Database archive
+ii  metasploit-framework                   6.1.36-0kali1                        amd64        Framework for exploit development and vulnerability research
+ii  powershell-empire                      4.5.1-kali-0kali1                    all          PowerShell and Python post-exploitation agent
+ii  python3-pyexploitdb                    0.2.0+20190604-0kali5                all          library to fetch the most recent exploit-database (Python 3)
+#####################################
+
+Hacking Tools that have the keyword: crack
+ii  aircrack-ng                            1:1.6+git20210130.91820bc-2          amd64        wireless WEP/WPA cracking utilities
+ii  crackmapexec                           5.2.2-0kali1                         all          Swiss army knife for pentesting networks
+ii  fern-wifi-cracker                      3.4-0kali1                           all          Automated Wi-Fi cracker
+ii  hashcat-utils                          1.9-0kali2                           amd64        Set of small utilities for advanced password cracking
+ii  hydra                                  9.3-1                                amd64        very fast network logon cracker
+ii  hydra-gtk                              9.3-1                                amd64        very fast network logon cracker - GTK+ based GUI
+ii  john                                   1.9.0-Jumbo-1+git20211102-0kali2     amd64        active password cracking tool
+ii  john-data                              1.9.0-Jumbo-1+git20211102-0kali2     all          active password cracking tool - character sets
+ii  ncrack                                 0.7+debian-3                         amd64        High-speed network authentication cracking tool
+ii  ophcrack                               3.8.0-3                              amd64        Microsoft Windows password cracker using rainbow tables (gui)
+ii  ophcrack-cli                           3.8.0-3                              amd64        Microsoft Windows password cracker using rainbow tables (cmdline)
+ii  stegcracker                            2.1.0-2                              all          steganography brute-force tool
+ii  stegseek                               0.6-1                                amd64        Fast steghide cracking utility
+ii  wifite                                 2.6.0+ds1-1                          all          Python script to automate wireless auditing using aircrack-ng tools
+#####################################
+
+Hacking Tools that have the keyword: hack
+ii  fonts-hack                             3.003-3                              all          Typeface designed for source code
+#####################################
+
+Hacking Tools that have the keyword: break
+#####################################
+
+Hacking Tools that have the keyword: inject
+ii  hotpatch                               0.2-1kali3                           amd64        Hot patches Linux executables with .so file injection
+ii  laudanum                               1.0+r36-0kali5                       all          Collection of injectable web files
+ii  sqlmap                                 1.6.3-1                              all          automatic SQL injection tool
+ii  unicorn-magic                          3.12-0kali2                          all          Tool for a PowerShell downgrade attack and inject shellcode
+#####################################
+
+Hacking Tools that have the keyword: scan
+ii  arp-scan                               1.9.7-2                              amd64        arp scanning and fingerprinting tool
+ii  fierce                                 1.5.0-1                              all          Domain DNS scanner
+ii  gawk                                   1:5.1.0-1                            amd64        GNU awk, a pattern scanning and processing language
+ii  ike-scan                               1.9.5-1                              amd64        discover and fingerprint IKE hosts (IPsec VPN Servers)
+ii  librttopo1:amd64                       1.1.0-2                              amd64        Tuscany Region topology library
+ii  libsane-common                         1.1.1-5                              all          API library for scanners -- documentation and support files
+ii  libsane1:amd64                         1.1.1-5                              amd64        API library for scanners
+ii  libzbar0:amd64                         0.23.92-4+b1                         amd64        QR code / bar code scanner and decoder (library)
+ii  masscan                                2:1.3.2+ds1-1                        amd64        TCP port scanner
+ii  mawk                                   1.3.4.20200120-3+b1                  amd64        Pattern scanning and text processing language
+ii  nbtscan                                1.7.2-1                              amd64        scan networks searching for NetBIOS information
+ii  netdiscover                            0.9-1                                amd64        active/passive network address scanner using ARP requests
+ii  nikto                                  1:2.1.6+git20190310-0kali3           all          web server security scanner
+ii  onesixtyone                            0.3.3~git20190328-2                  amd64        fast and simple SNMP scanner
+ii  python3-scapy                          2.4.4-4                              all          Packet generator/sniffer and network scanner/discovery (Python 3)
+ii  ruby-cms-scanner                       0.13.6-0kali6                        all          CMS Scanner Framework
+ii  sane-airscan                           0.99.27-1                            amd64        SANE backend for AirScan (eSCL) and WSD document scanner
+ii  sane-utils                             1.1.1-5                              amd64        API library for scanners -- utilities
+ii  sslscan                                2.0.12-0kali1                        amd64        Fast SSL scanner
+ii  sslyze                                 5.0.3-0kali1                         all          Fast and full-featured SSL scanner
+ii  testdisk                               7.1-5+b2                             amd64        Partition scanner and disk recovery tool, and PhotoRec file recovery tool
+ii  wapiti                                 3.0.4+dfsg-1                         all          web application vulnerability scanner
+ii  whatweb                                0.5.5-1                              all          Next generation web scanner
+ii  wpscan                                 3.8.20-0kali2                        all          Black box WordPress vulnerability scanner
+#####################################
+
+Hacking Tools that have the keyword: sniff
+ii  ettercap-common                        1:0.8.3.1-6                          amd64        Multipurpose sniffer/interceptor/logger for switched LAN
+ii  netsniff-ng                            0.6.8-2+b1                           amd64        Linux network packet sniffer toolkit
+ii  python3-scapy                          2.4.4-4                              all          Packet generator/sniffer and network scanner/discovery (Python 3)
+ii  python3-sniffio                        1.2.0-1                              all          detect which async Python library is in use
+ii  tcpick                                 0.2.1-10                             amd64        TCP stream sniffer and connection tracker
+#####################################
+
+Hacking Tools that have the keyword: capture
+ii  cutycapt                               0.0~svn10-0.1+b2                     amd64        utility to capture WebKit's rendering of a web page
+ii  kismet-capture-common                  2022.02.R1-0kali1                    all          Kismet Capture common helper
+ii  kismet-capture-linux-bluetooth         2022.02.R1-0kali1                    amd64        Kismet Linux Bluetooth capture helper
+ii  kismet-capture-linux-wifi              2022.02.R1-0kali1                    amd64        Kismet Linux Wi-Fi capture helper
+ii  kismet-capture-nrf-51822               2022.02.R1-0kali1                    amd64        Kismet NRF51822 BTLE Sniffer capture helper
+ii  kismet-capture-nrf-52840               2022.02.R1-0kali1                    amd64        Kismet NRF52840 BTLE Sniffer capture helper
+ii  kismet-capture-nrf-mousejack           2022.02.R1-0kali1                    amd64        Kismet nRF MouseJack capture helper
+ii  kismet-capture-nxp-kw41z               2022.02.R1-0kali1                    amd64        Kismet NXP KW41Z BTLE and Zigbee Sniffer capture helper
+ii  kismet-capture-rz-killerbee            2022.02.R1-0kali1                    amd64        Kismet Killerbee Sniffer capture helper
+ii  kismet-capture-ti-cc-2531              2022.02.R1-0kali1                    amd64        Kismet TICC2531 802.15.4 Zigbee Sniffer capture helper
+ii  kismet-capture-ti-cc-2540              2022.02.R1-0kali1                    amd64        Kismet TICC2540 BTLE Sniffer capture helper
+ii  kismet-capture-ubertooth-one           2022.02.R1-0kali1                    amd64        Kismet Ubertooth One BT Sniffer capture helper
+ii  libmjpegutils-2.1-0:amd64              1:2.1.0+debian-6                     amd64        MJPEG capture/editing/replay and MPEG encoding toolset (library)
+ii  libmpeg2encpp-2.1-0:amd64              1:2.1.0+debian-6                     amd64        MJPEG capture/editing/replay and MPEG encoding toolset (library)
+ii  libmplex2-2.1-0:amd64                  1:2.1.0+debian-6                     amd64        MJPEG capture/editing/replay and MPEG encoding toolset (library)
+ii  libpcap0.8:amd64                       1.10.1-4                             amd64        system interface for user-level packet capture
+ii  libwiretap12:amd64                     3.6.3-1                              amd64        network packet capture library -- shared library
+ii  python3-kismetcapturebtgeiger          2022.02.R1-0kali1                    all          Kismet BTLE geiger datasource
+ii  python3-kismetcapturefreaklabszigbee   2022.02.R1-0kali1                    all          Kismet Freaklabs Zigbee datasource
+ii  python3-kismetcapturertl433            2022.02.R1-0kali1                    all          Kismet rtl_433 datasource
+ii  python3-kismetcapturertladsb           2022.02.R1-0kali1                    all          Kismet rtladsb datasource
+ii  python3-kismetcapturertlamr            2022.02.R1-0kali1                    all          Kismet rtlamr datasource
+ii  python3-pcapy                          0.11.5-2                             amd64        Python interface to the libpcap packet capture library (Python 3)
+#####################################
+
+Hacking Tools that have the keyword: shell
+ii  bash-completion                        1:2.11-5                             all          programmable completion for the bash shell
+ii  dash                                   0.5.11+git20210903+057cd650a4ed-8    amd64        POSIX-compliant shell
+ii  ipython3                               7.31.1-1                             all          Enhanced interactive Python 3 shell
+ii  openssh-client                         1:8.9p1-3                            amd64        secure shell (SSH) client, for secure access to remote machines
+ii  openssh-server                         1:8.9p1-3                            amd64        secure shell (SSH) server, for secure access from remote machines
+ii  openssh-sftp-server                    1:8.9p1-3                            amd64        secure shell (SSH) sftp server module, for SFTP access from remote machines
+ii  powershell                             7.1.3-1.debian.10                    amd64        PowerShell is an automation and configuration management platform.
+ii  powershell-empire                      4.5.1-kali-0kali1                    all          PowerShell and Python post-exploitation agent
+ii  python3-donut                          0.9.2-0kali1+b2                      amd64        Generates position-independent shellcode from memory and runs them
+ii  python3-ipython                        7.31.1-1                             all          Enhanced interactive Python shell (Python 3 version)
+ii  tcl                                    8.6.11+1                             amd64        Tool Command Language (default version) - shell
+ii  tcl8.6                                 8.6.12+dfsg-1                        amd64        Tcl (the Tool Command Language) v8.6 - shell
+ii  unicorn-magic                          3.12-0kali2                          all          Tool for a PowerShell downgrade attack and inject shellcode
+ii  webshells                              1.1+kali8                            all          Collection of webshells
+ii  weevely                                4.0.1-1                              all          Stealth tiny web shell
+ii  whiptail                               0.52.21-5+b1                         amd64        Displays user-friendly dialog boxes from shell scripts
+ii  zenity                                 3.42.0-1                             amd64        Display graphical dialog boxes from shell scripts
+ii  zenity-common                          3.42.0-1                             all          Display graphical dialog boxes from shell scripts (common files)
+ii  zsh                                    5.8.1-1                              amd64        shell with lots of features
+ii  zsh-syntax-highlighting                0.7.1-2                              all          Fish shell like syntax highlighting for zsh
+#####################################
+
+Hacking Tools that have the keyword: unauthorized
+#####################################
+
+Hacking Tools that have the keyword: packet
+ii  bluez-hcidump                          5.62-2+kali1                         amd64        Analyses Bluetooth HCI packets
+ii  fping                                  5.1-1                                amd64        sends ICMP ECHO_REQUEST packets to network hosts
+ii  impacket-scripts                       1.6                                  all          Links to useful impacket scripts examples
+ii  iptables                               1.8.7-1                              amd64        administration tools for packet filtering and NAT
+ii  libnet1:amd64                          1.1.6+dfsg-3.1                       amd64        library for the construction and handling of network packets
+ii  libpcap0.8:amd64                       1.10.1-4                             amd64        system interface for user-level packet capture
+ii  libwireshark-data                      3.6.3-1                              all          network packet dissection library -- data files
+ii  libwireshark15:amd64                   3.6.3-1                              amd64        network packet dissection library -- shared library
+ii  libwiretap12:amd64                     3.6.3-1                              amd64        network packet capture library -- shared library
+ii  libwsutil13:amd64                      3.6.3-1                              amd64        network packet dissection utilities library -- shared library
+ii  netsed                                 1.2-3+b1                             amd64        network packet-altering stream editor
+ii  netsniff-ng                            0.6.8-2+b1                           amd64        Linux network packet sniffer toolkit
+ii  nftables                               1.0.2-1                              amd64        Program to control packet filtering rules by Netfilter project
+ii  ptunnel                                0.72-3+b1                            amd64        Tunnel TCP connections over ICMP packets
+ii  python3-dnslib                         0.9.19-1                             all          Module to encode/decode DNS wire-format packets (Python 3)
+ii  python3-impacket                       0.9.24-1                             all          Python3 module to easily build and dissect network protocols
+ii  python3-pcapy                          0.11.5-2                             amd64        Python interface to the libpcap packet capture library (Python 3)
+ii  traceroute                             1:2.1.0-2+b1                         amd64        Traces the route taken by packets over an IPv4/IPv6 network
+ii  udptunnel                              1.1-7+b1                             amd64        tunnel UDP packets over a TCP connection
+#####################################
+
